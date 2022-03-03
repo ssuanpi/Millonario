@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Millonario/static/css/main.89227271.chunk.css",
+    "main.js": "/Millonario/static/js/main.7ece7abf.chunk.js",
+    "main.js.map": "/Millonario/static/js/main.7ece7abf.chunk.js.map",
+    "runtime-main.js": "/Millonario/static/js/runtime-main.f6ecbabd.js",
+    "runtime-main.js.map": "/Millonario/static/js/runtime-main.f6ecbabd.js.map",
+    "static/js/2.8ac15b93.chunk.js": "/Millonario/static/js/2.8ac15b93.chunk.js",
+    "static/js/2.8ac15b93.chunk.js.map": "/Millonario/static/js/2.8ac15b93.chunk.js.map",
+    "static/js/3.0b66f35e.chunk.js": "/Millonario/static/js/3.0b66f35e.chunk.js",
+    "static/js/3.0b66f35e.chunk.js.map": "/Millonario/static/js/3.0b66f35e.chunk.js.map",
+    "index.html": "/Millonario/index.html",
+    "static/css/main.89227271.chunk.css.map": "/Millonario/static/css/main.89227271.chunk.css.map",
+    "static/js/2.8ac15b93.chunk.js.LICENSE.txt": "/Millonario/static/js/2.8ac15b93.chunk.js.LICENSE.txt",
+    "static/js/3.0b66f35e.chunk.js.LICENSE.txt": "/Millonario/static/js/3.0b66f35e.chunk.js.LICENSE.txt",
+    "static/media/correct.160572d7.mp3": "/Millonario/static/media/correct.160572d7.mp3",
+    "static/media/play.8e5f6d1d.mp3": "/Millonario/static/media/play.8e5f6d1d.mp3",
+    "static/media/wrong.e9468218.mp3": "/Millonario/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6ecbabd.js",
+    "static/js/2.8ac15b93.chunk.js",
+    "static/css/main.89227271.chunk.css",
+    "static/js/main.7ece7abf.chunk.js"
+  ]
+}
