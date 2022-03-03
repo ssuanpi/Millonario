@@ -68,7 +68,7 @@ function App() {
           correct: false,
         },
         {
-          text: "Cateto Adyacente/Hipotenusa",
+          text: "Hipotenusa/Cateto Opuesto",
           correct: true,
         },
         {
@@ -160,7 +160,7 @@ function App() {
           correct: false,
         },
         {
-          text: "a2 = b2 - c2",
+          text: "c2 = b2 - a2",
           correct: false,
         },
       ],
@@ -196,7 +196,7 @@ function App() {
           correct: false,
         },
         {
-          text: "cateto adyacente/hipotenusa",
+          text: "cateto opuesto/cateto adyacente",
           correct: true,
         },
         {
@@ -302,7 +302,7 @@ function App() {
       question: "Cuales de las siguientes no es una aplicacion de la trigonometria",
       answers: [
         {
-          text: "Calcular la distancia entre dos puntos cuando uno de ellos es inaccesible",
+          text: "La construccion de todos las edificaciones de la antigua grecia",
           correct: false,
         },
         {
@@ -378,7 +378,7 @@ function App() {
         <>
           <div className="main">
             {timeOut ? (
-              <h1 className="endText">You earned: {earned}</h1>
+              <h1 className="endText">Ganaste: {earned}</h1>
             ) : (
               <>
                 <div className="top">
